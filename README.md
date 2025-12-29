@@ -33,7 +33,8 @@ Built as a personal project to demonstrate KPI design, dimensional modeling, DAX
 - Donut Chart: Invoice Status Mix (Invoices Count by InvoiceStatus)
 
 **Screenshot**
-- Add image here: `screenshots/billing_payments_overview.png`
+- ![Billing & Payments Overview](https://github.com/aishwaryachand/LegalAnalyticsDashboard/blob/main/dbd1.jpeg)
+
 
 ---
 
