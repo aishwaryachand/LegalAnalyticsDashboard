@@ -47,7 +47,8 @@ Built as a personal project to demonstrate KPI design, dimensional modeling, DAX
 - Table: Case listing (CaseID, ClientName, AccountName, CaseStatus, WorkflowStage)
 
 **Screenshot**
-- Add image here: `screenshots/workflow_funnel_bottlenecks.png`
+- ![Workflow Funnel & Bottlenecks](https://github.com/aishwaryachand/LegalAnalyticsDashboard/blob/main/dbd2.jpeg)
+
 
 ---
 
